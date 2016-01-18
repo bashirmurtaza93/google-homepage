@@ -1,9 +1,4 @@
 # google-homepage
 googles homepage
-What!
-<<<<<<< HEAD
-Someother stuff
-From the Windows!!!
-=======
-Let's see if this works!!!
->>>>>>> efdf05140ce81c331e0ff333b58cd08836ec288b
+This simple project will be HTML and CSS version of the google homepage.
+The following project will be the search menu of the google homepage.
